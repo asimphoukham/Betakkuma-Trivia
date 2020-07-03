@@ -1,0 +1,404 @@
+{
+        "trivia": [
+                {
+                        "question": "What is the name of the company that produces 'Subaru' cars?",
+                        "a1": "Toyota",
+                        "a2": "Fuji Heavy",
+                        "a3": "Honda",
+                        "a4": "Suzuki Motor",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "What is a 'Sarutobi'?",
+                        "a1": "a ninja",
+                        "a2": "ritual suicide",
+                        "a3": "a monkey",
+                        "a4": "a tea ceremony",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "What does 'kamikaze' literally mean?",
+                        "a1": "suicide pact",
+                        "a2": "perfect death",
+                        "a3": "crazy god",
+                        "a4": "divine wind",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "What Japanese company owns the product 'Hello Kitty'?",
+                        "a1": "Nintendo",
+                        "a2": "Sunkus",
+                        "a3": "Bandai",
+                        "a4": "Sanrio",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "What is the highest mountain in Japan?",
+                        "a1": "Mount Everest",
+                        "a2": "Mount Fuji",
+                        "a3": "Grand Canyon",
+                        "a4": "Mount Yoshi",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "Who became the head of state of Japan in January 1989?",
+                        "a1": "Emperor Akihito",
+                        "a2": "Emperor Yoshihito",
+                        "a3": "Emperor Hirohito",
+                        "a4": "Emperor Antoku",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "What does 'domo arigato' mean?",
+                        "a1": "Please",
+                        "a2": "Thank you",
+                        "a3": "Hello",
+                        "a4": "Goodbye",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "What is the name of the company that makes Panasonic products?",
+                        "a1": "Matsushita Electric",
+                        "a2": "Mitsubishi Electric",
+                        "a3": "Sony",
+                        "a4": "RCA",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "In the anime 'DragonBall Z' how many dragon balls were there?",
+                        "a1": "Seven",
+                        "a2": "Three",
+                        "a3": "Eight",
+                        "a4": "Ten",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "In the anime 'SailorMoon' how many sailorscouts were there?",
+                        "a1": "Three",
+                        "a2": "Six",
+                        "a3": "Seven",
+                        "a4": "Five",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "In the anime 'Inuyasha' Inuyasha was half human and half what?",
+                        "a1": "Alien",
+                        "a2": "Monkey",
+                        "a3": "Demon",
+                        "a4": "God",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "Which of the four main islands in Japan is the smallest?",
+                        "a1": "Hokkaido",
+                        "a2": "Kyushu",
+                        "a3": "Honshu",
+                        "a4": "Shikoku",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "How high is Mt Fuji-the highest mountain in Japan?",
+                        "a1": "3768m",
+                        "a2": "3778m",
+                        "a3": "3787m",
+                        "a4": "3798m",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "Which Japanese Major League baseball player once played for the Yomiuri Giants?",
+                        "a1": "Ichiro",
+                        "a2": "Matsui",
+                        "a3": "Shinjo",
+                        "a4": "Sasaki",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "Where is Tokyo Disneyland located?",
+                        "a1": "Tokyo",
+                        "a2": "Shizuoka",
+                        "a3": "Yokohama",
+                        "a4": " Chiba",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "What do Japanese people celebrate at a 'hanami' party?",
+                        "a1": "Cherry blossom",
+                        "a2": "Maple leaves",
+                        "a3": "Star magnolia",
+                        "a4": "Bamboo flowers",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "Which of the following is NOT a Japanese festival?",
+                        "a1": "Star festival",
+                        "a2": "Doll festival",
+                        "a3": "Flower festival",
+                        "a4": " 7-5-3 festival",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "When did Japan surrender in World War 2?",
+                        "a1": "1946",
+                        "a2": "1943",
+                        "a3": "1945",
+                        "a4": "1944",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "Where can you find the highest roller coaster in Asia?",
+                        "a1": "EXPO Land",
+                        "a2": "Nagashima Spa Land",
+                        "a3": "Tokyo Disneyland",
+                        "a4": "Universal Studios Japan",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "Who was the Japanese Emperor for the majority of 1989?",
+                        "a1": "Showa",
+                        "a2": "Meiji",
+                        "a3": "Heisei",
+                        "a4": " Taisho",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "How many characters make up the hiragana script?",
+                        "a1": "44",
+                        "a2": "46",
+                        "a3": "48",
+                        "a4": "50",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "How many centuries did feudalism last for in Japan?",
+                        "a1": "6 Centuries",
+                        "a2": "7 Centuries",
+                        "a3": "8 Centuries",
+                        "a4": "9 Centuries",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What was the period when warriors of low status raised armies and became self-proclaimed warlords??",
+                        "a1": "The Warring States Period ",
+                        "a2": "The Super Fast Jellyfish Period",
+                        "a3": "The Traditional Period",
+                        "a4": "The Heian Period",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "How much of Japan's population did farmers make up?",
+                        "a1": "60%",
+                        "a2": "70%",
+                        "a3": "80%",
+                        "a4": "99.99%",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What Period of Japan was relatively peaceful?",
+                        "a1": "Kamakura Period",
+                        "a2": "Asuka period",
+                        "a3": "Nara period",
+                        "a4": "Traditional Japan",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "Why were the the eta the lowest class?",
+                        "a1": "Because they were idiots",
+                        "a2": "Because they were Ex-Criminals",
+                        "a3": "Because they didn't have a real profession and had jobs considered evil ",
+                        "a4": "Because they had come from disgraced families and were considered to be evil and violent",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What was Japan’s most traditional  important philosophy called?",
+                        "a1": "Buddhism",
+                        "a2": "Neo-Confucianism",
+                        "a3": "Racism",
+                        "a4": "Muslim",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "When was the emperor restored to full power?",
+                        "a1": "1875",
+                        "a2": "1868 ",
+                        "a3": "1874",
+                        "a4": "1854",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "How many classes of people were beneath the samurai?",
+                        "a1": "1 Classes",
+                        "a2": "2 Classes",
+                        "a3": "3 Classes",
+                        "a4": "4 Classes ",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "How much of Japan did Nobunaga control after 20 years?",
+                        "a1": "1/4",
+                        "a2": "1/3",
+                        "a3": "1/2",
+                        "a4": "1/1",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "What did Neo-Confucianism focus on?",
+                        "a1": "The importance of the feudal system",
+                        "a2": "The importance of worshipping the king and his religion",
+                        "a3": "the importance of morals, education, and hierarchical order",
+                        "a4": "The importance of turning cats into dim sims",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What two companies currently hold copyrights to 'Dragon Ball', 'Dragon Ball Z', and 'Dragon Ball GT?'",
+                        "a1": "Funimation And Pioneer",
+                        "a2": "Pioneer And Bird",
+                        "a3": "Toei And Akira Toriyama",
+                        "a4": "Funimation And Toei",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "What do characters (in the original subtitled episodes of any anime) always put behind a close girlfriends name?",
+                        "a1": "Busu",
+                        "a2": "Chan",
+                        "a3": "Chiki",
+                        "a4": "Sagi",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "What was the first anime series?",
+                        "a1": "Jungle Taitei (Kimba The White Lion)",
+                        "a2": "Mach Go Go Go (Speed Racer)",
+                        "a3": "Tetsuwan Atom (Astro Boy)",
+                        "a4": "Doraemon",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "Which of the following anime series was not combined to make 'Robotech' in the USA?",
+                        "a1": "Genesis Climber Mospeada",
+                        "a2": "Southern Cross",
+                        "a3": "Macross",
+                        "a4": "Mobile Suit Gundam",
+                        "   correctA": "a4"
+                },
+                {
+                        "question": "In 'Evangelion', where did Asuka Langley Sohryu previously live?",
+                        "a1": "France",
+                        "a2": "USA",
+                        "a3": "Germany",
+                        "a4": "England",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What Disney movie is said to bare a striking resemblance to an old Japanese animated series?",
+                        "a1": "Pocahontas",
+                        "a2": "The Lion King",
+                        "a3": "Mulan",
+                        "a4": "The Little Mermaid",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "Who provided the voice of San in the English dubbed version of 'Princess Mononoke?''",
+                        "a1": "Claire Danes",
+                        "a2": "Minnie Driver",
+                        "a3": "Gillian Anderson",
+                        "a4": "Jada Pinkett",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "In 'Tenchi Muyo', what is Tenchi's name?",
+                        "a1": "Suzuki",
+                        "a2": "Muyo",
+                        "a3": "Masaki",
+                        "a4": "Misato",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "In ‘Tenchi Muyo’, what was the name of Tenchi's mother?",
+                        "a1": "Achika",
+                        "a2": "Sakura",
+                        "a3": "Akiko",
+                        "a4": "Sachiko",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "What is the source of A-Ko's strength in 'Prokect A-Ko'?",
+                        "a1": "She's Just Really Strong",
+                        "a2": "She's Part Demon",
+                        "a3": "She's An Alien",
+                        "a4": "Her Father Is Superman And Her Mother Is Wonder Woman",
+                        "correctA": "a4"
+                },
+                {
+                        "question": "What is Suzuka’s nickname on ‘Outlaw Star?’",
+                        "a1": "Midnight",
+                        "a2": "Twilight",
+                        "a3": "Moonlight",
+                        "a4": "Starlight",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "’In ‘The Slayers’, what creature is Lina scared of?",
+                        "a1": "Dragons",
+                        "a2": "Slugs",
+                        "a3": "Spiders",
+                        "a4": "Cats",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "In the anime 'The Slayers', what object does Rezu try to get hold of?",
+                        "a1": "Lina's Bra",
+                        "a2": "The Philosopher's Stone",
+                        "a3": "The Claire Bible",
+                        "a4": "The Sword Of Light",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "On 'Fushigi Yugi', which member of the Suzaku 7 is originally impersonated by a member of the Seiryuu 7?",
+                        "a1": "Chiriko",
+                        "a2": "Mitsukake",
+                        "a3": "Tasuki",
+                        "a4": "Chichiri",
+                        "correctA": "a1"
+                },
+                {
+                        "question": "In 'Fushigi Yugi', which two members of the Suzaku 7 are never killed?",
+                        "a1": "Tamahome And Mitsukake",
+                        "a2": "Tamahome And Tasuki",
+                        "a3": "Tasuki And Chichiri",
+                        "a4": "Chichiri And Hotohori",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "'In Dragonball Z' how many years have lapsed between the other world tournament and the time when the episode Gohan goes to high school?",
+                        "a1": "1100 Years",
+                        "a2": "3000 Years",
+                        "a3": "7 Years",
+                        "a4": "5000 Years",
+                        "correctA": "a3"
+                },
+                {
+                        "question": "What is the main island of Japan called?",
+                        "a5": "Tokyo",
+                        "a2": "Honshu",
+                        "a3": "Kanto",
+                        "a4": "Hiroshima",
+                        "correctA": "a2"
+                },
+                {
+                        "question": "What are the native people of Japan called?",
+                        "a5": "Ainu",
+                        "a2": "Chinese",
+                        "a3": "Hindi",
+                        "a4": "Gaijin",
+                        "correctA": "a5"
+                },
+                {
+                        "question": "Takeuchi Naoko, the creator of 'Sailormoon' manga, married which one of the following manga artist?",
+                        "a5": "Yoshihiro Togashi",
+                        "a2": "Kishimoto Masashi",
+                        "a3": "Tsukasa Hojo",
+                        "a4": "Toriyama Akira",
+                        "correctA": "a5"
+                }
+        ]
+}

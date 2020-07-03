@@ -1,0 +1,114 @@
+#title{
+    background-color:#eeeeee;
+}
+
+.bgImage{
+    text-align: center;
+    margin-top:1.5rem;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 1rem;
+    -webkit-text-stroke: 1px purple;
+    color: white;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+h2{
+    font-size: 60px;
+    -webkit-text-stroke: 1px purple;
+    color: white;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+h3{
+    
+    /* -webkit-text-stroke: 1px purple; */
+    color: white;
+    text-shadow:
+/*     3px 3px 0 #000, */
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+h4{
+    font-weight: bold;
+}
+
+#startOption{
+    background-color:#b700ff;
+    text-align: center;
+}
+
+#start{
+    background-color: #00b7ff;
+    margin-top:8%;
+}
+
+#timer{
+    margin-right: 5%;
+    margin-top: 2rem;
+}
+
+#score{
+    margin-right: 5%;
+}
+
+.triImage{
+    margin-top:3%;
+    margin-left:38%;
+
+}
+
+#triBg{
+    background-color: #5bbd23;
+}
+
+#question{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    -webkit-text-stroke: 1px orange;
+    color: white;
+    text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.btnColors{
+    font-weight: bold;
+}
+
+.created{
+    margin-top:5%;
+}
+
+.gameover{
+    background-image: url('/images/gameover.png');
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 53rem;
+}
+
+.gamep{
+    padding-top: 10%;
+}
